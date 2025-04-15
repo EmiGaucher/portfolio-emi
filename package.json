@@ -1,11 +1,6 @@
 {
   "name": "emiliano-portfolio",
   "version": "1.0.0",
-  "scripts": {
-    "dev": "vite",
-    "build": "npx vite build",
-    "preview": "vite preview"
-  },
   "dependencies": {
     "emailjs-com": "^3.2.0",
     "framer-motion": "^12.6.5",
